@@ -44,10 +44,3 @@ _Add screenshots here when uploading to GitHub or your portfolio_
 ## 🚀 Outcomes
 This project strengthened my capabilities in business intelligence, storytelling with data, and using Power BI as a tool for real-world reporting needs. It's an essential part of my data analytics portfolio.
 
-## 📂 Project File
-- `Blink IT Project.pbix` – Power BI project file (available on request or via GitHub repo)
-
-## 📬 Let’s Connect
-📧 Email: [YourEmail@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐙 GitHub: [Your GitHub Profile]
